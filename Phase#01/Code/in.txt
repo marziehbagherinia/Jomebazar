@@ -1,0 +1,39 @@
+POST importProducts ? type mobile filePath Mobile.csv
+POST importProducts ? type car filePath Car.csv
+POST importProducts ? type tv filePathjfjf TV.csv
+POST logout
+POST signup ? email ali@gmail.com username ali password ali type seller
+POST logout
+POST login ? email ali@gmail.com password 123456
+POST login ? email ali@gmail.com password ali
+GET getProducts
+POST offer ? productId 10 offerUnitPrice 12.2 offerAmount 10
+POST offer ? productId 10 offerUnitPrice 12.2 offerAmount 10
+POST offer ? productId 8 offerUnitPrice 15.6 offerAmount 8
+GET myOffers
+POST logout
+POST signup ? email reza@gmail.com username reza password reza type seller
+POST offer ? productId 10 offerUnitPrice 20 offerAmount 4
+POST logout
+POST login ? email admin@gmail.com password admin
+GET offers ? order ASCEND field offerPrice
+GET offers ? order DESCEND field offerId
+POST logout
+POST login ? email ali@gmail.com password ali
+POST changeOffer ? offerId 2 offerUnitPrice 87.88 offerAmount 1
+GET myOffers
+POST logout
+POST signup ? email someone@gmail.com username someone password 123456
+GET offersOnProduct ? productId 10
+POST comment ? productId 10 comment I will buy this product!
+GET comments ? productId 10
+POST addToCart ? offerId 1 amount 2
+POST submitCart
+POST chargeWallet ? amount 87.8
+POST submitCart
+GET wallet ? count 10
+POST logout
+POST signup ali 123
+POST login ? email admin@gmail.com unknown unkown
+DELETE this
+POST run test

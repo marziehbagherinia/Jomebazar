@@ -1,0 +1,79 @@
+OK
+OK
+Bad Request
+OK
+OK
+OK
+Bad Request
+OK
+productId | productName
+1 | Apple iPhone XS Max Dual SIM 512GB 
+2 | Samsung Galaxy Note 10 Plus N975F/DS
+3 | Apple iPhone 8 Plus 256GB
+4 | Samsung Galaxy S10 Plus SM-G975F
+5 | Huawei P30 Pro VOG-L29
+6 | Samsung Galaxy S9 Plus SM-G965FD
+7 | Nokia 9 PureView TA-1087
+8 | Doogee S80 Dual SIM 64GB
+9 | Xiaomi mi 8 M1803E1A
+10 | Microsoft Lumia 950 XL Dual SIM
+11 | Nokia N82
+12 | Nokia E7
+13 | Bugatti Chiron SuperSoprt 2016 AT
+14 | Lamborghini Centenario 2016 AT
+15 | Hummer H2 2009 AT
+16 | Mercedes Benz SLS AMG 2014 AT
+17 | Rolls Royce Ghost Series II 2016 AT
+18 | Volkswagen Beetle 2016 AT
+19 | Hyundai Sonata LF 2017 Hybrid AT - A
+20 | IKCO Samand LX-EF7 1397 MT
+21 | Peugeot Pars LX 1397 MT
+22 | Saipa Pride 131 1397 MT
+23 | Mazda Cara 2000 Pickup 1395 MT
+24 | Zamyad Z28 Pickup 1395 MT
+OK
+Bad Request
+OK
+productId | offerId | offerUnitPrice | offerAmount
+10 | 1 | 12.2 | 10
+8 | 2 | 15.6 | 8
+OK
+OK
+OK
+OK
+OK
+productId | offerId | offerUnitPrice | offerAmount
+10 | 1 | 12.2 | 10
+8 | 2 | 15.6 | 8
+10 | 3 | 20 | 4
+productId | offerId | offerUnitPrice | offerAmount
+10 | 3 | 20 | 4
+8 | 2 | 15.6 | 8
+10 | 1 | 12.2 | 10
+OK
+OK
+OK
+productId | offerId | offerUnitPrice | offerAmount
+10 | 1 | 12.2 | 10
+8 | 2 | 87.88 | 1
+OK
+OK
+productId | productName | offerId | offerUnitPrice | offerAmount
+10 | Microsoft Lumia 950 XL Dual SIM | 1 | 12.2 | 10
+10 | Microsoft Lumia 950 XL Dual SIM | 3 | 20 | 4
+OK
+Microsoft Lumia 950 XL Dual SIM
+someone | I will buy this product!
+OK
+Bad Request
+OK
+OK
+credit
+63.4
+87.8
+0
+OK
+Bad Request
+Bad Request
+Bad Request
+Not Found
